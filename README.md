@@ -7,4 +7,4 @@ I will write something on my blog. You can found it at [c10ck'Blog](https://c10c
 ### Github Stat
 ![Top Langs](https://github-readme-stats-seven-psi-74.vercel.app/api/top-langs/?username=c10ck-p&layout=compact&count_private=true)
 
-![Github Stat](https://github-readme-stats.vercel.app/api?username=c10ck-p)
+![Github Stat](https://github-readme-stats.vercel.app/api?username=c10ck-p&count_private=true)
