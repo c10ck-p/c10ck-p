@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // 打字效果
-    const roles = ['世界', '开源', '创新', '分享'];
+    const roles = ['世界', '开源', '生活', '分享'];
     let roleIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
