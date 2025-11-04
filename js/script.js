@@ -107,7 +107,7 @@ window.addEventListener('resize', () => {
 
 // 设置开始时间（可以修改这个时间为实际开始搭建的时间）
 // 格式：年, 月-1, 日, 时, 分, 秒
-const startDate = new Date(2025, 11, 4, 0, 0, 0); // 2024年1月1日 00:00:00
+const startDate = new Date(2025, 10, 4, 0, 0, 0); // 2024年1月1日 00:00:00
 
 // 显示开始时间
 //document.getElementById('startTime').textContent =`开始时间：${startDate.toLocaleString('zh-CN')}`;
